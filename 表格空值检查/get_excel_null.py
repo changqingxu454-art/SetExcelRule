@@ -1,7 +1,7 @@
 import os
 import re
 import pandas as pd
-import xlrd  # 直接用xlrd原生接口
+import xlrd  
 from typing import List, Tuple
 from datetime import datetime
 
